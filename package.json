@@ -1,0 +1,11 @@
+{
+  "name": "arkaos-remoteplayer",
+  "version": "1.0.0",
+  "description": "Control the remote player of Arkaos-MediaMaster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michaël Thiébault",
+  "license": "ISC"
+}
