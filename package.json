@@ -1,11 +1,24 @@
 {
   "name": "arkaos-remoteplayer",
   "version": "1.0.0",
-  "description": "Control the remote player of Arkaos-MediaMaster",
+  "api_version": "1.0.0",
+  "description": "Control the remote player of MediaHub (included on the ArKaos MediaMaster software)",
+  "keywords": [
+    "Video",
+    "Media",
+    "ArKaos",
+    "MediaMaster",
+    "MediaHub",
+    "Remote Player",
+    "Cue",
+    "Controller"
+  ],
   "main": "index.js",
+  "manufacturer": "ArKaos",
+  "product": "MediaMaster remote Player",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Michaël Thiébault",
-  "license": "ISC"
+  "author": "Michaël Thiébault <michael.thiebault@arkaos.net>",
+  "license": "MIT"
 }
