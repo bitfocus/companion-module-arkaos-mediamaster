@@ -11,7 +11,8 @@
     "MediaHub",
     "Remote Player",
     "Cue",
-    "Controller"
+    "Controller",
+    "Stream"
   ],
   "main": "index.js",
   "manufacturer": "ArKaos",
