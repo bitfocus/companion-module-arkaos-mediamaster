@@ -1,6 +1,6 @@
 # companion-module-arkaos-remoteplayer
 
-This module controls the ArKaos MediaHub over TCP command.
+This module controls the ArKaos Hub over TCP command.
 Only works with the new MediaMaster version 6 and later.
 
 

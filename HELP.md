@@ -1,5 +1,5 @@
 # ArKaos Remote Player ![vlc](images/arkaos.png "ArKaos")
-This module controls the ArKaos MediaHub (Remote Player) on Arkaos MediaMaster 6 over TELNET command.
+This module controls the ArKaos Hub (Remote Player) on Arkaos MediaMaster 6 over TELNET command.
 Only works with the new MediaMaster version 6 and later.
 
 You can find more info: <a href="https://pro.arkaos.com/software/professional-media-server-software" title="MM">Arkaos remote Player</a>
