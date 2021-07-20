@@ -25,6 +25,9 @@ You can find more info: <a href="https://pro.arkaos.com/software/professional-me
 * Properties Position
 * Properties Mixing
 * Properties Output
+* View Transfer
+* View Remote Player
+* View Saga Encoder
 * Cue 1 to Cue 255
 
 **Presets Included:**
