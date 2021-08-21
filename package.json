@@ -1,5 +1,5 @@
 {
-  "name": "arkaos-remoteplayer",
+  "name": "arkaos-mediamaster",
   "version": "1.0.0",
   "api_version": "1.0.0",
   "description": "Control the remote player of ArKaos Hub (included on the ArKaos MediaMaster software)",
