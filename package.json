@@ -1,6 +1,6 @@
 {
   "name": "arkaos-mediamaster",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "api_version": "1.0.0",
   "description": "Control the remote player of ArKaos Hub (included on the ArKaos MediaMaster software)",
   "keywords": [
