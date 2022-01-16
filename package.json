@@ -1,6 +1,6 @@
 {
   "name": "arkaos-mediamaster",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "api_version": "1.0.0",
   "description": "Control the remote player of ArKaos Hub (included on the ArKaos MediaMaster software)",
   "keywords": [
@@ -17,6 +17,7 @@
   "main": "index.js",
   "manufacturer": "ArKaos",
   "product": "MediaMaster Remote Player",
+  "shortname": "arkaos",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
