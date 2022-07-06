@@ -28,7 +28,7 @@ You can find more info: <a href="https://pro.arkaos.com/software/professional-me
 * View Transfer
 * View Remote Player
 * View Saga Encoder
-* Cue 1 to Cue 255
+* Cue 1 to Cue 4095
 
 **Presets Included:**
 * Presets for all commands
