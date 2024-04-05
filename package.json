@@ -1,34 +1,20 @@
 {
 	"name": "arkaos-mediamaster",
-	"version": "1.0.5",
-	"api_version": "1.0.0",
-	"description": "Control the remote player of ArKaos Hub (included on the ArKaos MediaMaster software)",
-	"keywords": [
-		"Video",
-		"Media",
-		"ArKaos",
-		"MediaMaster",
-		"ArKaos Hub",
-		"Remote Player",
-		"Cue",
-		"Controller",
-		"Stream"
-	],
+	"version": "2.0.0",
 	"main": "index.js",
-	"manufacturer": "ArKaos",
-	"product": "MediaMaster Remote Player",
-	"shortname": "arkaos",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "Michaël Thiébault <michael.thiebault@arkaos.net>",
+	"type": "module",
 	"license": "MIT",
-	"homepage": "https://github.com/bitfocus/companion-module-arkaos-mediamaster#readme",
-	"bugs": {
-		"url": "https://github.com/bitfocus/companion-module-arkaos-mediamaster/issues"
-	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/bitfocus/companion-module-arkaos-mediamaster.git"
+	},
+	"dependencies": {
+		"@companion-module/base": "~1.7.0"
+	},
+	"devDependencies": {
+		"@companion-module/tools": "^1.5.0"
 	}
 }
