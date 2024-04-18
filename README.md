@@ -10,3 +10,6 @@ Only works with the new MediaMaster version 6 and later.
 
 **V1.0.5**
 * increase the cuelist interaction until 4095 cues.
+
+**V2.0.0**
+* Module upgraded to the companion v3.2.2
